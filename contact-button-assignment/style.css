@@ -1,0 +1,42 @@
+/*
+MY COLOR PALETTE
+Color 1 - #FFE2D1
+Color 2 - #81667A
+Color 3 - #8EB8E5
+Color 4 - #A1EF8B
+Color 5 - #283D3B
+*/
+
+body {
+    background-color:#ffe2d1;
+    text-align:center;
+}
+button {
+    background-color:#8eb8e5;
+    color:#283d3b;
+    font-family:"Lato", sans-serif;
+    font-weight:700;
+    font-style:normal;
+    font-size:20px;
+    width:200px;
+    padding:10px;
+    margin:30px;
+    border:none;
+    border-radius:8px;
+}
+
+button:hover {
+    background-color:#a1ef8b;
+}
+h1 {
+    font-family:"Lato", sans-serif;
+    font-weight:700;
+    font-style:italic;
+    font-size:50px;
+}
+h2 {
+    font-family:"Catamaran", sans-serif;
+    font-optical-sizing:auto;
+    font-weight:400;
+    font-style:normal;
+}
