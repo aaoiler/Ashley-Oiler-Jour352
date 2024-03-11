@@ -20,9 +20,7 @@
     font-weight:700;
     font-style:italic;
     color:#F1DEC2;
-  
-   
-}
+    }
 
     h2 {
     margin:10px 20px 0px 20px;
@@ -31,8 +29,7 @@
     font-weight:400;
     font-style:normal;
     color:#C34244
-  
-}
+    }
 
     #topper{
         background-color: #293553
@@ -42,14 +39,26 @@
     font-family:"Lato", sans-serif;
     font-weight:400;
     font-style:normal;
-    font-size:20px;
-    width:200px;
-    padding:8px;
+    font-size:15px;
+    width:150px;
+    padding:6px;
     margin:20px;
     border-radius:8px;
     background-color:#F1DEC2;
     color:#293553;
-
+    }
+    #navigation{
+        background-color:#C34244;
+        color:#293553;
+        text-align:center;
+        
+    } 
+    #navigation a{
+         color:#293553;
+        text-decoration:none;
+    }
+    #navigation a:hover{
+        text-decoration:underline;
     }
 }
 @media (min-width:576px) {
